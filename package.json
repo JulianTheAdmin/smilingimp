@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JulianTheAdmin/smilingimp/issues"
   },
-  "homepage": "https://github.com/JulianTheAdmin/smilingimp#readme"
+  "homepage": "https://github.com/JulianTheAdmin/smilingimp#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
 }
