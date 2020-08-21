@@ -1,0 +1,19 @@
+{
+  "name": "smilingimp",
+  "version": "1.0.0",
+  "description": "Smilingimp discord bot",
+  "main": "client.js",
+  "scripts": {
+    "test": "nodemon node client.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianTheAdmin/smilingimp.git"
+  },
+  "author": "WXP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulianTheAdmin/smilingimp/issues"
+  },
+  "homepage": "https://github.com/JulianTheAdmin/smilingimp#readme"
+}
